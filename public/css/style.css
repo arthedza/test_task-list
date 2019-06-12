@@ -1,0 +1,9 @@
+.wrapper {
+    display: block;
+    margin: 0 auto;
+    padding: 5px 10px;
+} 
+
+#task-text {
+    width: 400px;
+}
